@@ -1,5 +1,7 @@
-Readme for awesome flappy bird clone 3000
+Awesome flappy bird clone 3000
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The code and assets are based on a udemy tutorial (https://www.udemy.com/make-mobile-games-like-a-pro-using-unity-game-engine/learn/v4/overview).
 
 - Infinite Backgrounds:
 The Pipes and ground game objects are picked up and repositioned when the camera passes the screen. (HorizonalCollector.cs, PipeCollector.cs)
@@ -18,7 +20,10 @@ There are two popups in the gameplay scene.
 3) Collectables that will change the scaling of the bird (Scripts/Collectables)
 
 - Invincibility:
-The bird has an option not to die on contact. (Bird script on bird gameobject).+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The bird has an option not to die on contact. (Bird script on bird gameobject).
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ideas for more time:
 1) Facebook connect: Display score of you friends in game.
